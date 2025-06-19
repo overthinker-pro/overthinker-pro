@@ -24,7 +24,8 @@
 
 ## 🤹‍♂️Skills
 
-- Frontend Development: HTML, CSS, JavaScript, React Js, JQuery
+- Frontend Development: HTML, CSS, JavaScript
+- Design - Canva, Figma
 - UI/UX - Photoshop, Illustrator
 - Version Control: Git, GitHub
 - Photography: Nature photography, portrait photography, event photography..
